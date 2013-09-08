@@ -8,13 +8,13 @@ _ja jos ei löydy, auta meitä kokoamaan se mikä vielä puuttuu_
 
 Edustuksellisessa demokratiassa kansalaiset pääsevät vaikuttamaan yhteisiin asioihin lähinnä vaalien kautta muutaman vuoden välein. Koulutustason ja elintason noustua nykyiselle tasolleen monilla kansalaisilla olisi kykyä ja halua osallistua nykyistä aktiivisemmin päätöksien valmisteluun ja julkiseen keskusteluun siitä. Kuinka paljon kansalaisten ärtymystä päättäjiä kohtaan voitaisiin ratkoa parantamalla tiedonkulkua ja yhteispeliä päätöksien valmisteluun liittyen?
 
-[ [lisätietoa haasteesta](taustatietoa_haasteesta.md) ]
+[ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
 
 ## Osallistu Apps4Finland-kisaan
 
 Tämä on yhtä Apps4Finland-kilpailun haastetta varten koottu tukipaketti. Luomalla oman parannusehdotuksesi ja ilmoittamalla sen kisan [innosta-](), [hahmotta-](), [vaikutta-]() tai [mahdollista sarjaan]() osallistut kisaan yhteensä 16500 eurosta pääsarjoissa. Lisäksi tämän ja [kaupungin-viat]() haasteiden parhaalle ratkaisijalle on varattu 2000 euron lisäpalkinto.
 
-[ [lisätietoa palkitsemisperusteista](tietoa_palkitsemisperusteista.md) ]
+[ [lisätietoa palkitsemisperusteista](arviointikriteerit.md) ]
 
 ## Haasteeseen liittyvät tapahtumat
 
