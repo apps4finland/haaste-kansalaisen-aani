@@ -13,10 +13,16 @@ Sparrausyhteisöjä
 [3] Tekijät Facebook-ryhmä: https://www.facebook.com/groups/???? <br>
 [4] blogi.otakantaa.fi, Osallistumisympäristö-hankkeen kehittäjäblogi.
 
+Haastekumppanin GitHub-kansio
+=============================
+Helsingin kaupungin Open Ahjo-koodi GitHubissa: https://github.com/City-of-Helsinki/openahjo
+
 APIt
 ====
-* Otakantaa-API: http://www.otakantaa.fi/api/v2
+* Otakantaa-API: https://skydrive.live.com/redir?resid=F68B13849E2D4DC4!274&authkey=!ANMXGT5EC1oHUbA (ks. myös http://www.otakantaa.fi/api/v2)
 * Esimerkkejä API:n kutsumisesta, ks. [otakantaa.fi-OData_REST_API_kuvaus-2.pdf](https://github.com/apps4finland/haaste-kansalaisen-aani/blob/master/data/otakantaa.fi-OData_REST_API_kuvaus-2.pdf)
+* Open Ahjo: http://dev.hel.fi/apis/openahjo
+* Muita rajapintoja: http://dev.hel.fi/apis
 
 Dataa
 =====
