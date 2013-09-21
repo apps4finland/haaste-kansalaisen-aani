@@ -8,9 +8,9 @@ Tämä on Apps4Finland-kilpailun _Kansalaisen ääni_ -haastetta varten koottu t
 
 Edustuksellisessa demokratiassa kansalaiset pääsevät vaikuttamaan yhteisiin asioihin lähinnä vaalien kautta
 muutaman vuoden välein. Koulutustason ja elintason noustua nykyiselle tasolleen monilla kansalaisilla olisi kykyä ja
-halua osallistua nykyistä aktiivisemmin päätöksien valmisteluun ja julkiseen keskusteluun siitä. Kuinka paljon
-kansalaisten ärtymystä päättäjiä kohtaan voitaisiin ratkoa parantamalla tiedonkulkua ja yhteispeliä päätöksien
-valmisteluun liittyen?
+halua osallistua nykyistä aktiivisemmin päätöksien valmisteluun ja julkiseen keskusteluun. Kuinka
+kansalaisten, päättäjien ja virkamiesten yhteispeliä voitaisiin parantaa tiedonkulun, päätösten
+valmistelun ja suunnitteluun liittyvää yhteistoimintaa kehittämällä?
 
 [ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
 
