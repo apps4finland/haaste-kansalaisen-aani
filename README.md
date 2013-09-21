@@ -27,6 +27,7 @@ kisasta, voit aina ottaa yhteyttä kisan projektipäällikköön, jonka yhteysti
 ## Haasteeseen liittyvät tapahtumat
 
 * Apps Camp, 28.9, Uusi Tehdas, Tampere. Ilmoittautuminen ja ohjelma: https://okroadshowtampere.eventbrite.com/
+
 ## Mitä voit tehdä seuraavaksi?
 
 - Vinkkaa tästä haasteesta tutuillesi tai kerro siitä aihetta käsittelevällä nettifoorumilla.
@@ -35,7 +36,6 @@ kisasta, voit aina ottaa yhteyttä kisan projektipäällikköön, jonka yhteysti
 - Jos etsit työryhmää tai haluat pallotella ratkaisuideaasi, tutustu ainakin näihin [sparrausyhteisöihin](https://github.com/apps4finland/haaste-kansalaisen-aani/blob/master/data/linkkeja.md) tai osallistu haasteeseen liittyviin tapahtumiin (ks. yllä).
 - Jos ei muuta, niin [rekisteröidy GitHubin käyttäjäksi](https://github.com/signup), tutustu [GitHub-ohjeisiin](http://sixrevisions.com/resources/git-tutorials-beginners/) ja käytä Apps4Finland-kisaa GitHubin perusjuttujen opetteluun
 tai aloita oma haasteen ratkaisuprojektisi GitHubissa.
-
 
 ## Haastekansion sisältö
 - [data](https://github.com/apps4finland/haaste-kansalaisen-aani/tree/master/data)-kansiosta löytyy avoimien datalähteiden ja rajapintojen kuvauksia sekä [hyödyllisiä linkkejä](https://github.com/apps4finland/haaste-kansalaisen-aani/blob/master/data/linkkeja.md).
