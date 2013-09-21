@@ -1,45 +1,42 @@
-## Täältä löytyy kaikki tarpeellinen kansalaisten ja päättäjien vuorovaikutuksen parantamiseen Suomessa
+## Tässä kansiossa: kaikki tarpeellinen kansalaisten ja päättäjien vuorovaikutuksen parantamiseen Suomessa
 
-_ja jos ei löydy, auta meitä kokoamaan se mikä vielä puuttuu_
+Tämä on Apps4Finland-kilpailun _Kansalaisen ääni_ -haastetta varten koottu tukipaketti. 
 
 ![kuva vihaisesta kansalaisesta](http://1.bp.blogspot.com/_UmZyYBXJ-tc/SoVFjLSxMKI/AAAAAAAAABg/KzmU_9wNOEo/s320/vtattoo.png "Vihainen kansalainen")
 
 ## Haaste sinulle
 
-Edustuksellisessa demokratiassa kansalaiset pääsevät vaikuttamaan yhteisiin asioihin lähinnä vaalien kautta muutaman vuoden välein. Koulutustason ja elintason noustua nykyiselle tasolleen monilla kansalaisilla olisi kykyä ja halua osallistua nykyistä aktiivisemmin päätöksien valmisteluun ja julkiseen keskusteluun siitä. Kuinka paljon kansalaisten ärtymystä päättäjiä kohtaan voitaisiin ratkoa parantamalla tiedonkulkua ja yhteispeliä päätöksien valmisteluun liittyen?
+Edustuksellisessa demokratiassa kansalaiset pääsevät vaikuttamaan yhteisiin asioihin lähinnä vaalien kautta
+muutaman vuoden välein. Koulutustason ja elintason noustua nykyiselle tasolleen monilla kansalaisilla olisi kykyä ja
+halua osallistua nykyistä aktiivisemmin päätöksien valmisteluun ja julkiseen keskusteluun siitä. Kuinka paljon
+kansalaisten ärtymystä päättäjiä kohtaan voitaisiin ratkoa parantamalla tiedonkulkua ja yhteispeliä päätöksien
+valmisteluun liittyen?
 
 [ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
 
 ## Osallistu Apps4Finland-kisaan
 
-Tämä on yhtä Apps4Finland-kilpailun haastetta varten koottu tukipaketti. Luomalla oman parannusehdotuksesi ja ilmoittamalla sen kisan [innosta-](), [hahmotta-](), [vaikutta-]() tai [mahdollista sarjaan]() osallistut kisaan yhteensä 16500 eurosta pääsarjoissa. Lisäksi tämän ja [kaupungin-viat]() haasteiden parhaalle ratkaisijalle on varattu 2000 euron lisäpalkinto.
+Apps4Finland-kisan pääsarjoissa on jaossa 16500 euroa erilaisina palkintoina.
+Lisäksi voit voittaa 1000 euron haastekohtaisen lisäpalkinnon ratkaisemalla yllä esitetyn haasteen.
+Kisan _osallistumisohjeet_ ja _säännöt_ päivitetään 19.-20.9. Jos sinulla on mitä tahansa kysyttävää
+kisasta, voit aina ottaa yhteyttä kisan projektipäällikköön, jonka yhteystiedot löydät
+[Apps4Finland](http://apps4finland.fi)-kisasivun alalaidasta.
 
-[ [lisätietoa palkitsemisperusteista](arviointikriteerit.md) ]
+[ [lisätietoa palkitsemisesta](palkitsemisesta.md) ]
 
 ## Haasteeseen liittyvät tapahtumat
 
-_ilmoitetaan myöhemmin_
-
+* Apps Camp, 28.9, Uusi Tehdas, Tampere. Ilmoittautuminen ja ohjelma: https://okroadshowtampere.eventbrite.com/
 ## Mitä voit tehdä seuraavaksi?
 
-- [Aloita oma projekti]().
-
-- Tutustu tämän tukipaketin sisältöön
-
-- Vinkkaa tästä haasteesta tutuillesi tai kerro siitä aihetta käsittelevällä nettifoorumilla. Haaste on esitelty tiiviisti Apps4Finland-kilpailun [sivulla]().
-
-- Jos tiedät jostakin hyödyllisestä, jota pakettiin pitäisi lisätä, vinkkaa siitä [issues-osiossa](https://github.com/apps4finland/haaste-kansalaisen-aani/issues?state=open) _olemme erityisen otettuja esimerkkikoodin lahjoituksista tai uusista tietoaineistoista_
-
-- Jos et tiedä jotakin asiaan liittyvää tai saa teknisesti toteutettua mitä haluaisit, kysy siitä [Avoindata-kysymyspalvelussa](http://avoindata.net/). _Apps4Finland-kilpailun kumppanit ja [suomalaiset avoimen datan aktiivit](https://www.facebook.com/groups/fi.okfn/) ovat siellä mukana etsimässä vastauksia kysymyksiin._
-
-- Jos etsit työryhmää tutustu ainakin näihin _(lisää linkki)_ yhteisöihin tai tule johonkin näistä _(lisää linkki)_ tapahtumista.
-
-- Jos ei muuta, niin [rekisteröidy GitHubin käyttäjäksi](https://github.com/signup), lue [suomenkielinen pikaoppaamme](https://github.com/apps4finland/github-ohje) ja käytä Apps4Finland-kisaa GitHubin perusjuttujen opetteluun. _petrin pian valmistuvassa bloggauksessa kerrotaan miksi_
-
-- Voit myös lukea ja kommentoida [tukipakettiohjetta](https://github.com/apps4finland/tukipakettiohje). Se on paikka tukipaketteihin liittyvälle meta-keskustelulle.
+- Vinkkaa tästä haasteesta tutuillesi tai kerro siitä aihetta käsittelevällä nettifoorumilla.
+- Jos tiedät jostakin hyödyllisestä, jota tähän tukipakettiin pitäisi lisätä, vinkkaa siitä [issues-osiossa](https://github.com/apps4finland/haaste-kansalaisen-aani/issues?state=open). _Olemme erityisen otettuja esimerkkikoodin lahjoituksista tai uusista tietoaineistoista_.
+- Jos et tiedä jotakin haasteeseen liittyvää asiaa tai saa teknisesti toteutettua mitä haluaisit, kysy siitä [Avoindata-kysymyspalvelussa](http://avoindata.net/). _Apps4Finland-kilpailun kumppanit ja [suomalaiset avoimen datan aktiivit](https://www.facebook.com/groups/fi.okfn/) ovat siellä mukana etsimässä vastauksia kysymyksiin_.
+- Jos etsit työryhmää tai haluat pallotella ratkaisuideaasi, tutustu ainakin näihin [sparrausyhteisöihin](https://github.com/apps4finland/haaste-kansalaisen-aani/blob/master/data/linkkeja.md) tai osallistu haasteeseen liittyviin tapahtumiin (ks. yllä).
+- Jos ei muuta, niin [rekisteröidy GitHubin käyttäjäksi](https://github.com/signup), tutustu [GitHub-ohjeisiin](http://sixrevisions.com/resources/git-tutorials-beginners/) ja käytä Apps4Finland-kisaa GitHubin perusjuttujen opetteluun
+tai aloita oma haasteen ratkaisuprojektisi GitHubissa.
 
 
-## Sisältö
-- data-kansiosta löytyy avoimien datalähteiden ja rajapintojen kuvauksia
-- code-kansiosta löytyy esimerkkikoodia ja linkkejä teemaan liittyviin avoimen lähdekoodin projekteihin
-
+## Haastekansion sisältö
+- [data](https://github.com/apps4finland/haaste-kansalaisen-aani/tree/master/data)-kansiosta löytyy avoimien datalähteiden ja rajapintojen kuvauksia sekä [hyödyllisiä linkkejä](https://github.com/apps4finland/haaste-kansalaisen-aani/blob/master/data/linkkeja.md).
+- [code](https://github.com/apps4finland/haaste-kansalaisen-aani/tree/master/code)-kansiosta löytyy esimerkkikoodia ja linkkejä teemaan liittyviin avoimen lähdekoodin projekteihin
