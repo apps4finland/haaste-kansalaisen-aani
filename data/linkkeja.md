@@ -8,10 +8,16 @@ sparrausyhteisöjen kiinnostuneiden jäsenten kanssa.
 
 Sparrausyhteisöjä
 =================
-[1] Finnish Open Data Ecosystem Facebook-ryhmä: https://www.facebook.com/groups/?? <br>
-[2] Virkamiesten avoin verkosto Facebook-ryhmä: https://www.facebook.com/groups/??? <br>
-[3] Tekijät Facebook-ryhmä: https://www.facebook.com/groups/???? <br>
-[4] blogi.otakantaa.fi, Osallistumisympäristö-hankkeen kehittäjäblogi.
+[1] Finnish Open Data Ecosystem Facebook-ryhmä: https://www.facebook.com/groups-fi.okfn <br>
+[2] Virkamiesten avoin verkosto Facebook-ryhmä: https://www.facebook.com/groups-Virkamiestenavoinverkosto <br>
+[3] Avoin ministeriö Facebook-ryhmä: https://www.facebook.com/groups/Avoinministerio <br>
+[4] Open Democracy Finland Facebook-ryhmä: https://www.facebook.com/groups/OpenDemocracyFinland <br>
+[5] Verkkodemokratiaseura Facebook-ryhmä: https://www.facebook.com/groups/verkkodemokratiaseura <br>
+[6] Datavaalit Facebook-ryhmä: https://www.facebook.com/groups/datavaalit <br>
+[7] Kansan muisti Facebook-ryhmä: https://www.facebook.com/groups/kansanmuisti <br>
+[8] Avoin hallinto - Finnish Open Goverment Partnership Facebook-ryhmä: https://www.facebook.com/groups/391544210900505/ <br>
+[9]Deliberatiivisen demokratian instituutti Facebook-ryhmä: https://www.facebook.com/groups/357819557627021/
+
 
 Haastekumppanin GitHub-kansio
 =============================
