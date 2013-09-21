@@ -26,9 +26,9 @@ Hyödyllisiä linkkejä
 ====================
 
 Otakantaa.fi palveluun liittyvät Osallistumisympäristö-hankkeen palvelut: <br>
-* kansalaisaloite.fi, kansalaisaloitteiden sähköisen keruun järjestelmä. 
-* kuntalaisaloite.fi, kuntalaisaloitteiden sähköisen keruun järjestelmä. 
-* lausuntopalvelu.fi, sähköisen lausuntomenettelyn palvelu. 
-* Vetuma, Suomen julkishallinnon yhteisenen verkkotunnistamisen ja -maksamisen palvelu, jota 
+* [kansalaisaloite.fi](https://www.kansalaisaloite.fi/fi), kansalaisaloitteiden sähköisen keruun järjestelmä. 
+* [kuntalaisaloite.fi](https://www.kuntalaisaloite.fi/fi), kuntalaisaloitteiden sähköisen keruun järjestelmä. 
+* [lausuntopalvelu.fi](http://www.lausuntopalvelu.fi/), sähköisen lausuntomenettelyn palvelu. 
+* [Vetuma](http://www.suomi.fi/suomifi/tyohuone/yhteiset_palvelut/verkkotunnistaminen_ja_maksaminen_vetuma/tekninen_rajapinta/index.html), Suomen julkishallinnon yhteinen verkkotunnistamisen ja -maksamisen palvelu, jota 
 käytetään autentikointiin ja henkilöllisyyksien vahvistamiseen. 
-* Hare, eduskunnan ja ministeriöiden julkinen hankerekisteri 
+* [Hare](http://www.hare.vn.fi/), eduskunnan ja ministeriöiden julkinen hankerekisteri 
