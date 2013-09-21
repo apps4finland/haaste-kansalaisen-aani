@@ -15,7 +15,9 @@ Sparrausyhteisöjä
 
 Haastekumppanin GitHub-kansio
 =============================
-Helsingin kaupungin Open Ahjo-koodi GitHubissa: https://github.com/City-of-Helsinki/openahjo
+
+* Oikeusministeriö: https://github.com/Oikeusministerio
+* Helsingin kaupungin Open Ahjo-koodi GitHubissa: https://github.com/City-of-Helsinki/openahjo
 
 APIt
 ====
