@@ -14,6 +14,9 @@ integroiminen kokonaisnäkemykseksi olisi prosessina
 * mahdollisimman kitkaton
 * käytännössä mahdollisimman helppo toteuttaa
 
+Ratkaisun on mahdollistettava kansalaisten ja päättäjien keskustelukulttuurin muuttaminen suuntaan, jossa
+keskustelu tärkeistä kaupunkia tai valtakuntaa koskettavista asioista voidaa käydä avoimesti.
+
 [ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
 
 ## Osallistu Apps4Finland-kisaan
