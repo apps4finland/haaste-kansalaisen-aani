@@ -16,7 +16,7 @@ Sparrausyhteisöjä
 [6] Datavaalit Facebook-ryhmä: https://www.facebook.com/groups/datavaalit <br>
 [7] Kansan muisti Facebook-ryhmä: https://www.facebook.com/groups/kansanmuisti <br>
 [8] Avoin hallinto - Finnish Open Goverment Partnership Facebook-ryhmä: https://www.facebook.com/groups/391544210900505/ <br>
-[9]Deliberatiivisen demokratian instituutti Facebook-ryhmä: https://www.facebook.com/groups/357819557627021/
+[9] Deliberatiivisen demokratian instituutti Facebook-ryhmä: https://www.facebook.com/groups/357819557627021/
 
 
 Haastekumppanin GitHub-kansio
