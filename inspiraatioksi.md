@@ -9,3 +9,4 @@ sekä vuorovaikuttaa tehokkaammin toistensa ja virkamiesten kanssa.
 Inspiraatioksi:
 * Forum Romanum puhelimessasi
 * Kaupungin projektien sosiaalinen verkosto -sovellus
+* Otakantaa/Ahjo-APIA hyödyntyvä paikkatietopohjainen demokratiasovellus
