@@ -34,7 +34,9 @@ APIt
 
 Dataa
 =====
-* Lisää mahdolliset datalinkit tähän
+* Avoimen lähdekoodin nettiäänestysjärjestelmiä vapaasti hyödynnettäväksi:
+[Versio 1](https://github.com/verkkodemokratiaseura/verkkovaali) OpenID-tunnistuksen kera ja
+[Versio 2](https://github.com/spqs/nettiaanestys) ilman OpenID-tunnistusta.
 
 Hyödyllisiä linkkejä
 ====================
