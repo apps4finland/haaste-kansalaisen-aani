@@ -17,7 +17,7 @@ integroiminen kokonaisnäkemykseksi olisi prosessina
 Ratkaisun on mahdollistettava kansalaisten ja päättäjien keskustelukulttuurin muuttaminen suuntaan, jossa
 keskustelu tärkeistä kaupunkia tai valtakuntaa koskettavista asioista voidaa käydä avoimesti.
 
-[ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
+[ [Katso video](https://vimeo.com/77233999) ] [ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
 
 ## Osallistu Apps4Finland-kisaan
 
